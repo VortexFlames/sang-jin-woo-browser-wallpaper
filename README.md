@@ -1,4 +1,4 @@
-SHADOW MONARCH V4 — ARISE
+SHADOW MONARCH V4 - ARISE
 ==========================
 INSTALLATION IN HELIUM
 1. Extract the ZIP into a permanent folder (not inside the ZIP viewer).
