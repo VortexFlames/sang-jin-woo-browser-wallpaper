@@ -19,3 +19,7 @@ FEATURES
 - Inventory and quest stats are decorative, not connected to a game.
 
 The included background is an atmospheric crop of the approved visual concept, with side HUD elements excluded. Replace it in Settings with any wallpaper you prefer.
+![alt text](Preview_images/image.png)
+![alt text](Preview_images/image-2.png)
+![alt text](Preview_images/image-1.png)
+![alt text](Preview_images/image-3.png)
